@@ -1,23 +1,14 @@
-//
-//  main.cpp
-//  SumOfSubset
-//
-//  Created by KimYoojung on 2016. 11. 26..
-//  Copyright © 2016년 KimYoojung. All rights reserved.
-//
-
 #include <iostream>
 
 using namespace std;
 
 #define MAX_NUMBER 11
-#define MAX_STATE 1025
 #define INITIAL -1
 
 int n, final_sum;
 int list[MAX_NUMBER];
 int solution_vector[MAX_NUMBER];
-int total_visit = 0;
+int total_visit = 1;
 int total_node = 0;
 
 void Input();
