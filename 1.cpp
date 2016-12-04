@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  SumOfSubset
-//
-//  Created by KimYoojung on 2016. 11. 26..
-//  Copyright © 2016년 KimYoojung. All rights reserved.
-//
+
 
 #include <iostream>
 
